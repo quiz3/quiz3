@@ -1,21 +1,6 @@
-<!--### Hi there 👋-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quiz3&show_icons=true&locale=en">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=quiz3&show_icons=true&locale=en">
-  <img alt="Shows some stats about this user, quiz3." src="https://github-readme-stats.vercel.app/api?username=quiz3&show_icons=false&locale=en">
-</picture>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=quiz3&show_icons=true&locale=en" style=" height: 140px;" alt="quiz3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quiz3&" style="height: 140px;" alt="quiz3" />
+</div>
 
-<!--
-**quiz3/quiz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awesominat&label=Profile%20views&color=0e75b6&style=flat" alt="awesominat" /> </p>
