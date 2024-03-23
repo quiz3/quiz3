@@ -23,4 +23,8 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=quiz3&border_radius=25.0&theme=dark&background=151515" style="width: 400px;" alt="GitHub Streak for Stephen Scott" /></a>
 
 <!-- Profile Views -->
+<p>
+
+  
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quiz3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views for Stephen Scott (quiz3)" /> </p>
